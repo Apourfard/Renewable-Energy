@@ -1,2 +1,2 @@
 # Renewable-Energy
-In this repository I share my knowledge on Renewable Energy, Solar Power and Wind Energy
+In this repository, I share my knowledge of renewable energy, solar power, and wind energy.
